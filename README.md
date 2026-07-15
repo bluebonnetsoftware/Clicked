@@ -2,7 +2,7 @@
 
 **Highlight anything → understand it.** Clicked is a browser extension for Chrome and Edge that explains any text you highlight — immediately, right where you're reading, on any webpage or PDF. No prompts, no chat windows, no AI sidebars.
 
-🌐 **Website:** [tryclicked.app](https://tryclicked.app?ref=github) · 🧩 **Chrome Web Store** *(link coming — in review)* · 🧩 **Edge Add-ons** *(link coming — in review)*
+🌐 **Website:** [tryclicked.app](https://tryclicked.app?ref=github) · 🧩 [**Chrome Web Store**](https://chromewebstore.google.com/detail/clicked/ocmgkhfoojblkdeaciadnnhklblaldpk) · 🧩 [**Edge Add-ons**](https://microsoftedge.microsoft.com/addons/detail/ffnfbkmnpmocooimnemhmlcjgkopeioc)
 
 ---
 
